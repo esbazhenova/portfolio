@@ -6,7 +6,7 @@ I am a positive-thinking person who possesses two sides of power. On one hand, I
 
 I got my Master's Degree in University of Eastern Finland and for 3 years I was a PhD fellow in University of Jyväskylä. My research field was computational phusical chemistry which involved modelling chemical reactions by massively parallel computing.
 
-Now I wish to exploit my research and analytical skills in software testing. Currently I am intensively studying techniques and tools attending online courses and testin webapplications created for learning purposes.
+Now I wish to exploit my research and analytical skills in software testing. Currently I am intensively studying techniques and tools by attending online courses and testing web applications created for learning purposes.
 
 I would be extremely happy to apply obtained knowledge for testing an operational product and gain hands-on experience. It is a crucial step in my current career goal — to become a mid-level software tester in 2 years.
 
@@ -70,16 +70,16 @@ __Trello and Notion__
 __Mind maps & diagrams__
   * know how to design beautifully simple mind maps
 
-##Courses
+## Courses
 
-__Onboarding to Testing · Jedi Point__
-online course by Quality Lab, Moscow, Russia
-An intensive introductory course (20 h) to software testing
+__Onboarding to Testing · Jedi Point__  
+*online course by Quality Lab, Moscow, Russia*  
+An intensive introductory course (20 h) to software testing  
 Link to certificate
 
-__The 1st Online Institute for Software Testers__
-online course by Quality Lab, Moscow, Russia
-A comprehensive course (132 h) in quality assurance, covering skills in functional testing and test automation. Quality Lab is one of the biggest Russian providers of educational services tailored for software testers.
+__The 1st Online Institute for Software Testers__  
+*online course by Quality Lab, Moscow, Russia*  
+A comprehensive course (132 h) in quality assurance, covering skills in functional testing and test automation. Quality Lab is one of the biggest Russian providers of educational services tailored for software testers  
 *in progress - 80%*
 
 ## Examples of my work
