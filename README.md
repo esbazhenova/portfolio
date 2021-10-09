@@ -15,7 +15,7 @@ Here you can download my CV in .pdf - CV
 
 ## Skills
 
-You can find examples of the described skills via links
+You can find examples of the described skills in the section Examples of my work
 
 __Manual testing__
   * can perform manual functional and usability testing of web-applications
@@ -49,12 +49,12 @@ __Python fundamentals__
 
 ## Tools
 
-__TestRail__ - example of my work on the project
+__TestRail__
   * know how to create test cases and test suits
   * able to run created test cases
   * know how to use dashboards and statistics
 
-__Jira__ - example of my bug reports
+__Jira__
   * know how to create bug reports
 
 __SoapUI__
