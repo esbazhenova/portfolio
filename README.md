@@ -1,4 +1,7 @@
 # Portfolio
+__Table of contents__  
+
+
 
 ## About me
 
@@ -11,7 +14,7 @@ Now I wish to exploit my research and analytical skills in software testing. Cur
 I would be extremely happy to apply obtained knowledge for testing an operational product and gain hands-on experience. It is a crucial step in my current career goal — to become a mid-level software tester in 2 years.
 
 ## CV
-Here you can download my CV in .pdf - CV
+You can download my CV in .pdf from my GoogleDrive by [clicking here](https://drive.google.com/file/d/11FJNgtF8fAgEQIFJ0aA9S9O8_6_7Jgp-/view?usp=sharing)
 
 ## Skills
 
@@ -74,19 +77,19 @@ __Mind maps & diagrams__
 
 __Onboarding to Testing · Jedi Point__  
 *online course by Quality Lab, Moscow, Russia*  
-An intensive introductory course (20 h) to software testing  
-Link to certificate
+An intensive introductory course (20 h) to software testing. Quality Lab is one of the biggest Russian providers of educational services tailored for software testers  
+[Link to the certificate](https://drive.google.com/file/d/16ysUnfckphOZ3VNLYhOX-KnvKEWoCdYA/view?usp=sharing)
 
 __The 1st Online Institute for Software Testers__  
 *online course by Quality Lab, Moscow, Russia*  
-A comprehensive course (132 h) in quality assurance, covering skills in functional testing and test automation. Quality Lab is one of the biggest Russian providers of educational services tailored for software testers  
+A comprehensive course (132 h) in quality assurance, covering skills in functional testing and test automation.   
 *in progress - 80%*
 
 ## Examples of my work
 
-### Test cases
+### Test cases & work in TestRail
 
-### Bug reports
+### Bug reports & work in Jira
 
 ### Test tours
 
