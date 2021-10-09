@@ -18,57 +18,57 @@ Here you can download my CV in .pdf - CV
 You can find examples of the described skills via links
 
 Manual testing
-can perform manual functional and usability testing of web-applications
-gained hands-on experience by testing applications created for educational purposes
+  * can perform manual functional and usability testing of web-applications
+  * gained hands-on experience by testing applications created for educational purposes
 
 Test analysis & design
-familiar with functional decomposition of products, creating state transition diagrams, writing use cases
-can apply equivalence partitioning, boundary value analysis and methods of pair-wise testing to generate test input data
+  * familiar with functional decomposition of products, creating state transition diagrams, writing use cases
+  * can apply equivalence partitioning, boundary value analysis and methods of pair-wise testing to generate test input data
 
 API testing
-know the difference between SOAP and REST APIs
-gained experience through manual testing of APIs created for educational purposes
-know how to manipulate requests and create test cases using the SoapUI tool
+  * know the difference between SOAP and REST APIs
+  * gained experience through manual testing of APIs created for educational purposes
+  * know how to manipulate requests and create test cases using the SoapUI tool
 
 Exploratory testing
-capable of using Whittaker’s test tours and creating cheat-lists for testing web-applications
+  * capable of using Whittaker’s test tours and creating cheat-lists for testing web-applications
 
 Test documentation
-can create test cases and check-lists and know how and in which situations to use them effectively
-able to prepare comprehensive bug reports and provide detailed session reports
+  * can create test cases and check-lists and know how and in which situations to use them effectively
+  * able to prepare comprehensive bug reports and provide detailed session reports
 
 SQL databases
-know the difference between joins and unions and can use them in queries
-familiar with the use of aliases and wildcards
-can write complex requests using subqueries
+  * can write complex requests using subqueries
+  * familiar with the use of aliases and wildcards
+  * know the difference between joins and unions and can use them in queries
 
 Python fundamentals
-know when to use for and while
-can write simple functions and algorithms
-able to comprehend easy codes
+  * can write simple functions and algorithms
+  * know when to use for and while
+  * able to comprehend easy codes
 
 ## Tools
 
 TestRail - example of my work on the project
-know how to create test cases and test suits
-able to run created test cases
-know how to use dashboards and statistics
+  * know how to create test cases and test suits
+  * able to run created test cases
+  * know how to use dashboards and statistics
 
 Jira - example of my bug reports
-know how to create bug reports
+  * know how to create bug reports
 
 SoapUI
 
 Browser developer tools
 
 VirtualBox
-able to set up and operate with virtual machines
+  * able to set up and operate with virtual machines
 
 Trello and Notion
-know how to use Canban boards and track project progress
+  * know how to use Canban boards and track project progress
 
 Mind maps & diagrams
-know how to design beautifully simple mind maps
+  * know how to design beautifully simple mind maps
 
 ##Courses
 
