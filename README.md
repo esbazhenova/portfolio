@@ -1,7 +1,5 @@
 # Portfolio
-__Table of contents__  
-
-
+  
 
 ## About me
 
