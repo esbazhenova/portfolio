@@ -17,67 +17,67 @@ Here you can download my CV in .pdf - CV
 
 You can find examples of the described skills via links
 
-Manual testing
+__Manual testing__
   * can perform manual functional and usability testing of web-applications
   * gained hands-on experience by testing applications created for educational purposes
 
-Test analysis & design
+__Test analysis & design__
   * familiar with functional decomposition of products, creating state transition diagrams, writing use cases
   * can apply equivalence partitioning, boundary value analysis and methods of pair-wise testing to generate test input data
 
-API testing
+__API testing__
   * know the difference between SOAP and REST APIs
   * gained experience through manual testing of APIs created for educational purposes
   * know how to manipulate requests and create test cases using the SoapUI tool
 
-Exploratory testing
+__Exploratory testing__
   * capable of using Whittaker’s test tours and creating cheat-lists for testing web-applications
 
-Test documentation
+__Test documentation__
   * can create test cases and check-lists and know how and in which situations to use them effectively
   * able to prepare comprehensive bug reports and provide detailed session reports
 
-SQL databases
+__SQL databases__
   * can write complex requests using subqueries
   * familiar with the use of aliases and wildcards
   * know the difference between joins and unions and can use them in queries
 
-Python fundamentals
+__Python fundamentals__
   * can write simple functions and algorithms
   * know when to use for and while
   * able to comprehend easy codes
 
 ## Tools
 
-TestRail - example of my work on the project
+__TestRail__ - example of my work on the project
   * know how to create test cases and test suits
   * able to run created test cases
   * know how to use dashboards and statistics
 
-Jira - example of my bug reports
+__Jira__ - example of my bug reports
   * know how to create bug reports
 
-SoapUI
+__SoapUI__
 
-Browser developer tools
+__Browser developer tools__
 
-VirtualBox
+__VirtualBox__
   * able to set up and operate with virtual machines
 
-Trello and Notion
+__Trello and Notion__
   * know how to use Canban boards and track project progress
 
-Mind maps & diagrams
+__Mind maps & diagrams__
   * know how to design beautifully simple mind maps
 
 ##Courses
 
-Onboarding to Testing · Jedi Point
+__Onboarding to Testing · Jedi Point__
 online course by Quality Lab, Moscow, Russia
 An intensive introductory course (20 h) to software testing
-see certificate here
+Link to certificate
 
-The 1st Online Institute for Software Testers
+__The 1st Online Institute for Software Testers__
 online course by Quality Lab, Moscow, Russia
 A comprehensive course (132 h) in quality assurance, covering skills in functional testing and test automation. Quality Lab is one of the biggest Russian providers of educational services tailored for software testers.
 *in progress - 80%*
@@ -95,9 +95,9 @@ A comprehensive course (132 h) in quality assurance, covering skills in function
 ### Test reports
 
 ## Books that I have read
-"Testing dot com" R.Savin 2017 (in Russian) - an excellent book for a very beginners. It explain what are the general goals and basic techniques in software testing. 
+__"Testing dot com"__ R.Savin 2017 (in Russian) - an excellent book for a very beginners. It explain what are the general goals and basic techniques in software testing. 
 
-"A Practitioner's Guide to Software Test Design" Lee Copeland 2004 - comprehensive explanation of the fundamental techniques and approaches used in software testing
+__"A Practitioner's Guide to Software Test Design"__ Lee Copeland 2004 - comprehensive explanation of the fundamental techniques and approaches used in software testing
 
 ## Recommended YouTube channels
 
