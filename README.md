@@ -11,7 +11,7 @@
   * [Test tours](#test-tours)
   * [Test reports](#test-reports)
   * [Mindmaps and diagrams](#mindmaps-and-diagrams)
-  * [Scripts for PICT (pairwise testing)](#scripts-fpr-pict-paiwise-testing)
+  * [Scripts for PICT (pairwise testing)](#scripts-fpr-pict-(paiwise-testing))
 - [Books that I have read](#books-that-i-have-read)
 - [Recommended YouTube channels](#recommended-youtube-channels)
 
@@ -112,7 +112,7 @@ A comprehensive course (132 h) in quality assurance, covering skills in function
 * Bug 1 detected on the on the [training webpage Loan Calculator](http://creditcalculator.pointschool.ru). Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Ypqw992_r6YgXNdqslH1FVW3Y33sT6ip/view?usp=sharing)
 * Bug 2 detected on the on the [training webpage Loan Calculator](http://creditcalculator.pointschool.ru). Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/15KB2fIqWO4uIUbAMejk8ZZrkpPfJzz1m/view?usp=sharing)
 * Bug 3 detected on the on the [training webpage Loan Calculator](http://creditcalculator.pointschool.ru). Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Qn_Fe5gwdEQ-f4PKpg115CZaWl3_N705/view?usp=sharing)
-* Example of the project in jira. Check [the screenshot](https://drive.google.com/file/d/1uN7R4SGWYZ0zn45id8_CeSzs4sn68BWq/view?usp=sharing)
+* Example of the project in Jira. Check [the screenshot](https://drive.google.com/file/d/1uN7R4SGWYZ0zn45id8_CeSzs4sn68BWq/view?usp=sharing)
 
 ### Test tours
 
