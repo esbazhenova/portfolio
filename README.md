@@ -17,7 +17,7 @@
 
 I am a positive-thinking person who possesses two sides of power. On one hand, I am organised, structured and attentive to details due to my background as a research chemist. And on the other, due to my personality, I love to communicate with people and solve problems.
 
-I got my Master's Degree in University of Eastern Finland and for 3 years I was a PhD fellow in University of Jyväskylä. My research field was computational phusical chemistry which involved modelling chemical reactions by massively parallel computing.
+I got my Master's Degree in University of Eastern Finland and for 3 years I was a PhD fellow in University of Jyväskylä. My research field was computational physical chemistry which involved modelling chemical reactions by massively parallel computing.
 
 Now I wish to exploit my research and analytical skills in software testing. Currently I am intensively studying techniques and tools by attending online courses and testing web applications created for learning purposes.
 
@@ -99,7 +99,16 @@ A comprehensive course (132 h) in quality assurance, covering skills in function
 
 ### Test cases and work in TestRail
 
+* Test case (in Russian) for authorisation on the [training webpage Enotes](https://enotes.pointschool.ruin). Check [the screenshot from TestRail here](https://drive.google.com/file/d/1X9q5h3NKLI7NZpoU-gaHwSrYq_KQtDsl/view?usp=sharing)
+* Test case (in Russian) for adding the item to the cart of the [training webpage Enotes](https://enotes.pointschool.ruin). See [the screenshot from TestRail here](https://drive.google.com/file/d/1L74DBG62BRnl45WuVYsuR3RoYU4KZHrI/view?usp=sharing)
+* Test suits and test run for to the cart of the [training webpage Enotes](https://enotes.pointschool.ruin). See [the screenshots from TestRail here](https://drive.google.com/file/d/1imQyEHdDE9FCWtnnPZurh0J9QMTWrS3l/view?usp=sharing)
+
 ### Bug reports and work in Jira
+
+* Bug 1 detected on the on the [training webpage Loan Calculator](http://creditcalculator.pointschool.ru). Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Ypqw992_r6YgXNdqslH1FVW3Y33sT6ip/view?usp=sharing)
+* Bug 2 detected on the on the [training webpage Loan Calculator](http://creditcalculator.pointschool.ru). Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/15KB2fIqWO4uIUbAMejk8ZZrkpPfJzz1m/view?usp=sharing)
+* Bug 3 detected on the on the [training webpage Loan Calculator](http://creditcalculator.pointschool.ru). Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Qn_Fe5gwdEQ-f4PKpg115CZaWl3_N705/view?usp=sharing)
+* Example of the project in jira. Check [the screenshot](https://drive.google.com/file/d/1uN7R4SGWYZ0zn45id8_CeSzs4sn68BWq/view?usp=sharing)
 
 ### Test tours
 
