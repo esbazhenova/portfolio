@@ -122,6 +122,8 @@ A comprehensive course (132 h) in quality assurance, covering skills in function
 
 ### Scripts for PICT (pairwise testing)
 
+* Generating combinations for the form consisting of 3 fields. The possible values of the one field dependent on the values on another field. See [the script for MS PICT](https://drive.google.com/file/d/1nRuFkKA2pXFHHFwfph0SuXq-2p22VLtD/view?usp=sharing) and [the results of the script execution](https://drive.google.com/file/d/1bKWMw8rqOy477JpRgfS8-koDd2jm3MEv/view?usp=sharing)
+* Generating combinations for the form consisting of 5 fields. See [the script for MS PICT](https://drive.google.com/file/d/1jG72-v808dXlvSxcC6EYkiaZNbZZTeIB/view?usp=sharing) and [the results of the script execution](https://drive.google.com/file/d/1WlKu_FRv-kSVPPoQlL-7wz6CXqr9f2bi/view?usp=sharing)
 
 ## Books that I have read
 __"Testing dot com"__ R.Savin 2017 (in Russian) - an excellent book for a very beginners. It explain what are the general goals and basic techniques in software testing. 
