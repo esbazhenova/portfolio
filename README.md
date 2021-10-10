@@ -11,7 +11,7 @@
   * [Test tours](#test-tours)
   * [Test reports](#test-reports)
   * [Mindmaps and diagrams](#mindmaps-and-diagrams)
-  * [Scripts for PICT (pairwise testing)](#scripts-fpr-pict-pairwise-testing)
+  * [Scripts for PICT (pairwise testing)](#scripts-for-pict-pairwise-testing)
 - [Books that I have read](#books-that-i-have-read)
 - [Recommended YouTube channels](#recommended-youtube-channels)
 
@@ -120,7 +120,7 @@ A comprehensive course (132 h) in quality assurance, covering skills in function
 
 ### Mindmaps and diagrams
 
-### Scripts for PICT pairwise testing
+### Scripts for PICT (pairwise testing)
 
 
 ## Books that I have read
