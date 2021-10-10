@@ -38,7 +38,7 @@ __Manual testing__
 
 __Test analysis & design__
   * familiar with functional decomposition of products, creating state transition diagrams, writing use cases
-  * can apply equivalence partitioning, boundary value analysis and methods of pair-wise testing to generate test input data
+  * can apply equivalence partitioning, boundary value analysis and methods of pairwise testing to generate test input data
 
 __API testing__
   * know the difference between SOAP and REST APIs
