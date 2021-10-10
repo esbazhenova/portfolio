@@ -11,7 +11,7 @@
   * [Test tours](#test-tours)
   * [Test reports](#test-reports)
   * [Mindmaps and diagrams](#mindmaps-and-diagrams)
-  * [Scripts for PICT (pairwise testing)](#scripts-fpr-pict-(paiwise-testing))
+  * [Scripts for PICT (pairwise testing)](#scripts-fpr-pict-pairwise-testing)
 - [Books that I have read](#books-that-i-have-read)
 - [Recommended YouTube channels](#recommended-youtube-channels)
 
