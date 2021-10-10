@@ -6,10 +6,12 @@
 - [Courses](#courses)
 - [Examples of my work](#examples-of-my-work)
   * [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
+  * [Check lists](#check-lists)
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
   * [Test tours](#test-tours)
-  * [Mindmaps and diagrams](#mindmaps-and-diagrams)
   * [Test reports](#test-reports)
+  * [Mindmaps and diagrams](#mindmaps-and-diagrams)
+  * [Scripts for PICT (pairwise testing)](#scripts-fpr-pict-paiwise-testing)
 - [Books that I have read](#books-that-i-have-read)
 - [Recommended YouTube channels](#recommended-youtube-channels)
 
@@ -103,6 +105,8 @@ A comprehensive course (132 h) in quality assurance, covering skills in function
 * Test case (in Russian) for adding the item to the cart of the [training webpage Enotes](https://enotes.pointschool.ruin). See [the screenshot from TestRail here](https://drive.google.com/file/d/1L74DBG62BRnl45WuVYsuR3RoYU4KZHrI/view?usp=sharing)
 * Test suits and test run for to the cart of the [training webpage Enotes](https://enotes.pointschool.ruin). See [the screenshots from TestRail here](https://drive.google.com/file/d/1imQyEHdDE9FCWtnnPZurh0J9QMTWrS3l/view?usp=sharing)
 
+### Check lists
+
 ### Bug reports and work in Jira
 
 * Bug 1 detected on the on the [training webpage Loan Calculator](http://creditcalculator.pointschool.ru). Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Ypqw992_r6YgXNdqslH1FVW3Y33sT6ip/view?usp=sharing)
@@ -112,9 +116,12 @@ A comprehensive course (132 h) in quality assurance, covering skills in function
 
 ### Test tours
 
+### Test reports
+
 ### Mindmaps and diagrams
 
-### Test reports
+### Scripts for PICT (pairwise testing)
+
 
 ## Books that I have read
 __"Testing dot com"__ R.Savin 2017 (in Russian) - an excellent book for a very beginners. It explain what are the general goals and basic techniques in software testing. 
