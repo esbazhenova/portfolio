@@ -120,7 +120,7 @@ A comprehensive course (132 h) in quality assurance, covering skills in function
 
 ### Mindmaps and diagrams
 
-### Scripts for PICT (pairwise testing)
+### Scripts for PICT pairwise testing
 
 
 ## Books that I have read
