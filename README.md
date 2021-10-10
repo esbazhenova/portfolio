@@ -1,5 +1,17 @@
 # Portfolio
-  
+- [About me](#about-me)
+- [CV](#cv)
+- [Skills](#skills)
+- [Tools](#tools)
+- [Courses](#courses)
+- [Examples of my work](#examples-of-my-work)
+  * [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
+  * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
+  * [Test tours](#test-tours)
+  * [Mindmaps and diagrams](#mindmaps-and-diagrams)
+  * [Test reports](#test-reports)
+- [Books that I have read](#books-that-i-have-read)
+- [Recommended YouTube channels](#recommended-youtube-channels)
 
 ## About me
 
@@ -16,7 +28,7 @@ You can download my CV in .pdf from my GoogleDrive by [clicking here](https://dr
 
 ## Skills
 
-You can find examples of the described skills in the section __Examples of my work__
+You can find examples of the described skills in the section [Examples of my work](#examples-of-my-work)
 
 __Manual testing__
   * can perform manual functional and usability testing of web-applications
@@ -85,9 +97,9 @@ A comprehensive course (132 h) in quality assurance, covering skills in function
 
 ## Examples of my work
 
-### Test cases & work in TestRail
+### Test cases and work in TestRail
 
-### Bug reports & work in Jira
+### Bug reports and work in Jira
 
 ### Test tours
 
@@ -101,6 +113,5 @@ __"Testing dot com"__ R.Savin 2017 (in Russian) - an excellent book for a very b
 __"A Practitioner's Guide to Software Test Design"__ Lee Copeland 2004 - comprehensive explanation of the fundamental techniques and approaches used in software testing
 
 ## Recommended YouTube channels
-
 
 
