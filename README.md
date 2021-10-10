@@ -119,6 +119,8 @@ A comprehensive course (132 h) in quality assurance, covering skills in function
 ### Test reports
 
 ### Mindmaps and diagrams
+* Functional decomposition of the [training webpage Loan Calculator](http://creditcalculator.pointschool.ru). Check the [mindmap](https://drive.google.com/file/d/1i1O25CTJNYbuZAmigsRFJjPzUhbRJduY/view?usp=sharing)
+* State-transition diagram of the loan application at the [training webpage Loan Calculator](http://creditcalculator.pointschool.ru). Check the [diagram](https://drive.google.com/file/d/1yr1i_gvkTDtbw-ZZF9I_o5CKQZuc2KWG/view?usp=sharing)
 
 ### Scripts for PICT (pairwise testing)
 
