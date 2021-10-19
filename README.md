@@ -101,6 +101,9 @@ A comprehensive course (132 h) in quality assurance, covering skills in function
 
 ### Test cases and work in TestRail
 
+- [The training webshop](http://automationpractice.com/) was used to create demo test cases
+  * Test case for checking the checkout process (in English). Check [the google.sheet document here](https://docs.google.com/spreadsheets/d/1NpgiyQr2mx2YKddbXOFi7YygWE_jUve3spzscLkpTuY/edit?usp=sharing)
+
 - [The training webpage Enotes](https://enotes.pointschool.ruin) was used for working with TestRail.
   * Test case (in Russian) for authorisation. Check [the screenshot from TestRail here](https://drive.google.com/file/d/1X9q5h3NKLI7NZpoU-gaHwSrYq_KQtDsl/view?usp=sharing).
   * Test case (in Russian) for adding an item to the cart. See [the screenshot from TestRail here](https://drive.google.com/file/d/1L74DBG62BRnl45WuVYsuR3RoYU4KZHrI/view?usp=sharing).
