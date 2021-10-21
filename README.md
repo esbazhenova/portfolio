@@ -8,12 +8,9 @@
   * [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
   * [Checklists](#checklists)
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
-  * [Test tours](#test-tours)
-  * [Test reports](#test-reports)
   * [Mindmaps and diagrams](#mindmaps-and-diagrams)
   * [Scripts for PICT (pairwise testing)](#scripts-for-pict-pairwise-testing)
 - [Books I have read](#books-i-have-read)
-- [Recommended YouTube channels](#recommended-youtube-channels)
 
 ## About me
 
@@ -71,6 +68,7 @@ __TestRail__
 
 __Jira__
   * know how to create bug reports
+  * able to create projects and track their progress
 
 __SoapUI__
 
@@ -95,15 +93,15 @@ An intensive introductory course (20 h) to software testing. Quality Lab is one 
 __The 1st Online Institute for Software Testers__  
 *online course by Quality Lab, Moscow, Russia*  
 A comprehensive course (132 h) in quality assurance, covering skills in functional testing and test automation.   
-*in progress - 80%*
+*in progress - 95%. Expected certification date 01.11.2021*
 
 ## Examples of my work
 
 ### Test cases and work in TestRail
 
 - [The training webshop](http://automationpractice.com/) was used to create demo test cases
-  * Test case for checking the checkout process (in English). Check [the google.sheet document here](https://docs.google.com/spreadsheets/d/1NpgiyQr2mx2YKddbXOFi7YygWE_jUve3spzscLkpTuY/edit?usp=sharing)
-  * Test case for checking the addition of items to the cart (in English). Check [the google.sheet document here](https://docs.google.com/spreadsheets/d/1PTc-aPCKWBm4B3aaTPsvJ5wgW0P-KkpvaclZAbQzTZY/edit#gid=0)
+  * Test case for checking the checkout process (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1NpgiyQr2mx2YKddbXOFi7YygWE_jUve3spzscLkpTuY/edit?usp=sharing)
+  * Test case for checking the addition of items to the cart (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1PTc-aPCKWBm4B3aaTPsvJ5wgW0P-KkpvaclZAbQzTZY/edit#gid=0)
 
 - [The training webpage Enotes](https://enotes.pointschool.ruin) was used for working with TestRail.
   * Test case (in Russian) for authorisation. Check [the screenshot from TestRail here](https://drive.google.com/file/d/1X9q5h3NKLI7NZpoU-gaHwSrYq_KQtDsl/view?usp=sharing).
@@ -120,10 +118,6 @@ A comprehensive course (132 h) in quality assurance, covering skills in function
   * Bug #3. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Qn_Fe5gwdEQ-f4PKpg115CZaWl3_N705/view?usp=sharing).
 * An example of a project in Jira. Check [the screenshot](https://drive.google.com/file/d/1uN7R4SGWYZ0zn45id8_CeSzs4sn68BWq/view?usp=sharing).
 
-### Test tours
-
-### Test reports
-
 ### Mindmaps and diagrams
 * Functional decomposition of [the training webpage Loan Calculator](http://creditcalculator.pointschool.ru). Check [the mindmap](https://drive.google.com/file/d/1i1O25CTJNYbuZAmigsRFJjPzUhbRJduY/view?usp=sharing).
 * State-transition diagram of the loan application at [the training webpage Loan Calculator](http://creditcalculator.pointschool.ru). Check [the diagram](https://drive.google.com/file/d/1yr1i_gvkTDtbw-ZZF9I_o5CKQZuc2KWG/view?usp=sharing).
@@ -139,7 +133,3 @@ A comprehensive course (132 h) in quality assurance, covering skills in function
 __"Testing dot com"__ R.Savin 2017 (in Russian) - an excellent book for a very beginners. It explains the general goals and basic techniques in software testing.
 
 __"A Practitioner's Guide to Software Test Design"__ Lee Copeland 2004 - comprehensive explanation of the fundamental techniques and approaches used in software testing.
-
-## Recommended YouTube channels
-
-
