@@ -84,15 +84,21 @@ __Mind maps & diagrams__
 
 ## Courses
 
+__Robot Framework Test Automation, Levels 1-4__  
+*online courses by [Bryan Lamb](https://www.udemy.com/user/bryanl/), Udemy*  
+An intensive course in test automation with Robot Framework for beginners.
+*in progress*
+
+__The 1st Online Institute of Software Testing__  
+*online course by Quality Lab, Moscow, Russia*  
+A comprehensive course (132 h) in quality assurance, covering skills in functional testing and test automation.
+[Link to the certificate](https://quality-lab.ru/school-center/certificate.php?id=22655&lang=en)
+
 __Onboarding to Testing · Jedi Point__  
 *online course by Quality Lab, Moscow, Russia*  
 An intensive introductory course (20 h) to software testing. Quality Lab is one of the biggest Russian providers of educational services tailored for software testers.   
 [Link to the certificate](https://drive.google.com/file/d/16ysUnfckphOZ3VNLYhOX-KnvKEWoCdYA/view?usp=sharing)
 
-__The 1st Online Institute for Software Testers__  
-*online course by Quality Lab, Moscow, Russia*  
-A comprehensive course (132 h) in quality assurance, covering skills in functional testing and test automation.   
-*in progress - 95%. Expected certification date 01.11.2021*
 
 ## Examples of my work
 
